@@ -17,3 +17,9 @@ So, with this background of the problem, I will be looking into the historic evi
   3) Pandas & Numpy
   4) Matplotlib & Seaborn
   
+## Project Pipeline
+1) Data Extraction using Web Scraping Technique
+2) Data Wrangling using Pandas & Pandas Profiling
+3) Data Transformation
+4) Exploratory Data Analysis
+5) Data Storytelling
