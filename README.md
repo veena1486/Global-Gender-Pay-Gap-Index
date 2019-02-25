@@ -1,4 +1,4 @@
-# Global-Gender-Pay-Gap-Index
+# Global Gender Pay Gap Index
 **Concern-What is the extent of Gender pay gap globally over the years?**</br>
                   *-Using Web scraping techniques and EDA to analyse the Gender pay difference across nations* 
 
