@@ -1,11 +1,10 @@
 # Global Gender Pay Gap Index
-
-                  
+               
 
 ## The Problem
 An article in Fortune magazine is celebrating April 10, 2018 as **Equal Pay Day** that marks the fact that how far into 2018 does an average American women has to work to be at par in her earnings with the average US man in 2017. Many continue to ignore the existence of gender pay gap but in reality it exists and it impacts the nation's global development. The statistics state that women earn 77.9 cents for every dollar earned by men *(The Gender Pay Gap Persists, Payscale-2018)* and this gap continues to increase at higher levels of the talent pool. 
 
-**Problem Statement-Globally, which countries contribute heavily or majorly impact Gender Pay Gap?**</br>
+**Problem Statement-Globally, which countries contribute heavily to or majorly impact Gender Pay Gap?**</br>
 
 ## Project Summary
 **1) Data Source:** To address this problem statement I will be using the open source data on Gender Pay Gap available with **[OECD](http://www.oecd.org/about/) (Organisation for Economic Co-operation and Development)**. I will exploring and analysing the following indicators to build a prediction model-</br>
@@ -14,7 +13,7 @@ An article in Fortune magazine is celebrating April 10, 2018 as **Equal Pay Day*
 **c) [Gender Wage Gap](https://data.oecd.org/earnwage/gender-wage-gap.htm#indicator-chart)**- This indicator is defined as the difference between median earnings of men and women relative to median earnings of men. </br>
 **d) [Wage Levels](https://data.oecd.org/earnwage/wage-levels.htm#indicator-chart)**-Wage levels are defines as High pay and Low pay and is measured as a percentage. The incidence of low pay refers to the share of workers earning less than two-thirds of median earnings . The incidence of high pay refers to the share of workers earning more than one-and-a-half time median earnings. </br>
 
-**2) Aim the Project:**
+**2) Aim of the Project:**</br>
 **-Aim:** To identify the top five countries contributing to Global Gender Pay Gap and predict their influence for the next 5 years.
 I will be using Machine Learning methods to build identify the countries majorly contributing to the Gender Pay Gap based on the indicators and build a prediction model to follow their impact on the trend of GPG for next 5 years.
 
