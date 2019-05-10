@@ -2,12 +2,12 @@
                
 
 ## Project Motivation
-This is my first assignment and my approach is purely analytical. My focus would be more on data exploration and analysis. I will also attempt at building a prediction model to predict whether the trend in gender pay gap shall continue to increase or will the gap reduce over the period.
+This is my first assignment and my approach is purely analytical. My focus would be more on data exploration. Using pandas and seaborn library, I intend to explore the trends of Gender Pay Gap with OECD countries.
 
 ## The Problem
 An article in Fortune magazine is celebrating April 10, 2018 as **Equal Pay Day** that marks the fact that how far into 2018 does an average American women has to work to be at par in her earnings with the average US man in 2017. Many continue to ignore the existence of gender pay gap but in reality it exists and it impacts the nation's global development. The statistics state that women earn 77.9 cents for every dollar earned by men *(The Gender Pay Gap Persists, Payscale-2018)* and this gap continues to increase at higher levels of the talent pool. 
 
-**Problem Statement- Which are the top OECD countries that contribute majorly towards Gender Pay Gap and will they continue to have an impact on this indicator for the next few years?**</br>
+**Problem Statement- Which are the top OECD countries that contribute majorly towards Gender Pay Gap?**</br>
 
 ## Project Summary
 **1) Data Source:** To address this problem statement I will be using the open source data on Gender Pay Gap available with **[OECD](http://www.oecd.org/about/) (Organisation for Economic Co-operation and Development)**. I will exploring and analysing the following indicators to build a prediction model-</br>
@@ -17,8 +17,8 @@ An article in Fortune magazine is celebrating April 10, 2018 as **Equal Pay Day*
 **d) [Wage Levels](https://data.oecd.org/earnwage/wage-levels.htm#indicator-chart)**-Wage levels are defines as High pay and Low pay and is measured as a percentage. The incidence of low pay refers to the share of workers earning less than two-thirds of median earnings . The incidence of high pay refers to the share of workers earning more than one-and-a-half time median earnings. </br>
 
 **2) Aim of the Project:**</br>
-**-Aim:** To identify the top five countries contributing to Global Gender Pay Gap and predict their influence for the next 5 years.
-I will be using Machine Learning methods to build identify the countries majorly contributing to the Gender Pay Gap based on the indicators and build a prediction model to follow their future impact on the trend of GPG.
+**-Aim:** To visualize the trends in Gender Pay Gap in OECD countries using Pandas and Seaborn Library.
+I will be using Seaborn Library to visualize and explore the 20 year trend of Gender Pay Gap across the countries. This project is purely exploratory data analytics to visualize and understand the trends in Gender Pay Gap using the historical OECD data.
 
 
 ## Requirements
@@ -33,5 +33,3 @@ I will be using Machine Learning methods to build identify the countries majorly
 2) Data Wrangling using Pandas library
 3) Data Transformation
 4) Exploratory Data Analysis
-5) Prediction Model using Machine Learning Libraries
-6) Data Storytelling
